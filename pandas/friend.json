@@ -1,0 +1,32 @@
+[
+    {
+        "Name":"Ross",
+        "Age":30,
+        "Profession":"Paleontologist"
+    },
+    {
+        "Name":"Rachel",
+        "Age":28,
+        "Profession":"Fashion Designer"
+    },
+    {
+        "Name":"Monica",
+        "Age":29,
+        "Profession":"Chef"
+    },
+    {
+        "Name":"Chandler",
+        "Age":31,
+        "Profession":"IT Manager"
+    },
+    {
+        "Name":"Joey",
+        "Age":32,
+        "Profession":"Actor"
+    },
+    {
+        "Name":"Phoebe",
+        "Age":27,
+        "Profession":"Musician"
+    }
+]
